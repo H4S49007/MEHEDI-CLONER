@@ -21,8 +21,8 @@ pip2 install bs4
 
 pkg install git
 
-git clone https://github.com/TAHIDUL-123/Tahidul
+git clone https://github.com/H4S49007/MEHEDI-CLONER
 
-cd Tahidul
+cd MEHEDI-CLONER
 
-python TAHIDUL1.py
+python BD-RFD-CLONER.py
